@@ -1,0 +1,1 @@
+# hardware-original-comonent-control-key
